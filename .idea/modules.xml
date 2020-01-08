@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KafkaStreams.iml" filepath="$PROJECT_DIR$/.idea/KafkaStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usage-cost-logger-kafka/usage-cost-logger-kafka.iml" filepath="$PROJECT_DIR$/usage-cost-logger-kafka/usage-cost-logger-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usage-cost-processor-kafka/usage-cost-processor-kafka.iml" filepath="$PROJECT_DIR$/usage-cost-processor-kafka/usage-cost-processor-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usage-detail-sender-kafka/usage-detail-sender-kafka.iml" filepath="$PROJECT_DIR$/usage-detail-sender-kafka/usage-detail-sender-kafka.iml" />
+    </modules>
+  </component>
+</project>
